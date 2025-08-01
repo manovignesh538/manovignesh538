@@ -1,7 +1,8 @@
 ## 💫 About Me:
 🔭 I’m currently working on AI-powered trading bots and ML projects  
-🌱 I’m currently learning Generative AI and React  
-🤝 I’m looking to collaborate on applied ML, NLP, or finance-tech projects  
+🧪 Interned at University of Hyderabad on Wi-Fi-based human activity detection using ML.
+🌱 I’m currently learning Generative AI and MCP
+🤝 I’m looking to collaborate on applied ML, DL or NLP projects  
 
 🌐 **Socials:**  
 [LinkedIn](https://www.linkedin.com/in/mano-vignesh-096349275) • [GitHub](https://github.com/manovignesh538)
