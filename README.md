@@ -9,29 +9,10 @@
 ---
 
 ## 💻 Tech Stack:
-**Languages:**  
-Java • Python • SQL • HTML • CSS  
-
-**Frameworks & Libraries:**  
-Pandas • NumPy • Scikit-learn • Optuna • Keras • PyTorch  
-
-**Tools & Platforms:**  
-Power BI • Tableau • Streamlit • Hugging Face • AWS SageMaker • Git  
-
-**Databases:**  
-MySQL • Microsoft SQL Server  
-
-**Other Skills:**  
-Machine Learning • Deep Learning • NLP • Generative AI • Data Visualization
+<img src="https://raw.githubusercontent.com/manovignesh538/manovignesh538/main/c5b4c63d-5607-439c-9ef4-1d3ac1e92df9.png" alt="Tech Stack" />
 
 ---
 
 ## 📈 GitHub Stats:
 ![Mano Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=manovignesh538&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manovignesh538&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## ✍️ Random Dev Quote
-> “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
-
